@@ -1,3 +1,5 @@
+// incomplete functions
+
 #include <stdio.h>
 #include <string.h>
 #define MAX 25
